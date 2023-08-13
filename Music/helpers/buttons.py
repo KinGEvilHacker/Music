@@ -208,8 +208,7 @@ class MakeButtons:
                 self.ikb(text="About moi MAsTer", url="https://t.me/iitz_me"),
             ],
             [
-                self.ikb(text="Under ᴍɪss ✗ Network { 🇮🇳 }", url="https://t.me/H
-                miss_x_Network"),
+                self.ikb(text="Under ᴍɪss ✗ Network { 🇮🇳 }", url="https://t.me/miss_x_Network"),
             ],
             [
                 self.ikb(text="Support 🎙️", url="https://t.me/Themortalclan"),
