@@ -1,7 +1,7 @@
 {
-	"name": "HellMusic",
+	"name": "ᴍɪss ✗ ᴍɪᴋᴀᴢᴜᴋɪ ᴍᴜꜱɪᴄ",
 	"description": "A telegram voice chat music player bot by The-Hellbot, coded in python using Pyrogram and PyTgCalls",
-	"logo": "https://te.legra.ph/file/7decf235312af8536e9aa.jpg",
+	"logo": "https://graph.org/file/83ec2821355336e588265.jpg",
 	"keywords": [
 		"telegram",
 		"musicbot",
@@ -14,7 +14,7 @@
 		"music",
 		"hellbot"
 	],
-	"repository": "https://github.com/The-HellBot/HellMusic/",
+	"repository": "https://github.com/KinGEvilHacker/HellMusic/",
 	"env": {
         "API_HASH": {
             "description": "Get this value from my.telegram.org",
