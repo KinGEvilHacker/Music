@@ -205,6 +205,7 @@ class MakeButtons:
         buttons = [
             [
                 self.ikb(text="Developer ❤️", url="https://t.me/i_am_dead_smile"),
+                self.ikb(text="About moi MAsTer", url="https://t.me/iitz_me"),
             ],
             [
                 self.ikb(text="Under ᴍɪss ✗ Network { 🇮🇳 }", url="https://t.me/H
