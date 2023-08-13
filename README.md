@@ -1,13 +1,13 @@
 <h1 align="center">
-  <b>✨ †hê Hêllẞø† - ᴍᴜsɪᴄ 🎶</b>
+  <b>✨ ᴍɪss ✗ ᴍɪᴋᴀᴢᴜᴋɪ ᴍᴜꜱɪᴄ 🎶</b>
 </h1>
 
 <p align="center">
-  <img src="https://te.legra.ph/file/5d5642103804ae180e40b.jpg" alt="The-HellBot" width=500 height=300>
+  <img src="https://graph.org/file/83ec2821355336e588265.jpg" alt="The-HellBot" width=500 height=300>
 </p>
 
 <h6 align="center">
-  <b>⚡ ʟɛɢɛռɖaʀʏ ᴀғ ɦɛʟʟɮօt ⚡</b>
+  <b>⚡ ʟɛɢɛռɖaʀʏ ᴀғ ᴍɪss ✗ Bot ⚡</b>
 </h6>
 
 <h3 align="center">
